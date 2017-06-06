@@ -1,1 +1,2 @@
-location test is here
+Location test is here.
+Changes done on 6th June.
